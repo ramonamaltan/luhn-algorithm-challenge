@@ -1,5 +1,5 @@
-### Luhn algorithm challenge - Credit card check
-###### This challenge was about implementing the Luhn algorithm to check if a credit card number is valid or not.
+### Luhn algorithm challenge
+##### This challenge was about implementing the Luhn algorithm to check if a credit card number is valid or not.
 
 Steps involved in Luhn algorithm
 Let’s understand the algorithm with an example: 
